@@ -13,7 +13,6 @@ __pycache__/
 
 # Build do PyInstaller
 build/
-dist/
 *.spec
 
 # Arquivos de logs e temporários
